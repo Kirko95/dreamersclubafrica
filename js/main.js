@@ -32,7 +32,7 @@ $(document).ready(function () {
                 } else {
                     swal.fire({
                         title: '<h3 style="color:#0C4DA2; font-family: "Oswald", sans-serif; " >ERROR</h3>',
-                        html: '<p>An error occurred. Please try again.</p>',
+                        html: '<p>' + response.message + '</p>',
                         type: 'error',
                         allowOutsideClick: false,
                         showCloseButton: true,
