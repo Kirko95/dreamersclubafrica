@@ -30,7 +30,15 @@ $(document).ready(function () {
                         confirmButtonAriaLabel: 'Thumbs up, great!',
                     });
                 } else {
-                    alert('error!')
+                    swal.fire({
+                        title: '<h3 style="color:#0C4DA2; font-family: "Oswald", sans-serif; " >ERROR</h3>',
+                        html: '<p>An error occurred. Please try again.</p>',
+                        type: 'error',
+                        allowOutsideClick: false,
+                        showCloseButton: true,
+                        focusConfirm: false,
+                        confirmButtonText: 'Ok!',
+                    });
                 }
                 $('#notificationButton').attr("disabled", false).html('Get Notified');
             }
