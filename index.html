@@ -23,6 +23,9 @@
     <link rel="stylesheet" href="css/icomoon.css">
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/main.css">
+	<!-- UIkit CSS -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css" />
+
   </head>
   <body>
 	  <div class="py-2 bg-primary">
@@ -500,68 +503,46 @@
                   	<span class="quote d-flex align-items-center justify-content-center">
                       <i class="icon-quote-left"></i>
                     </span>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Racky Henderson</p>
+                    <p>My daughter attended the Dreamers Club Africa at Mavuno Church where we fellowship. I would
+						highly recommend the program for the following reasons:</p>
+						<a class="uk-button uk-button-default" href="#modal-container" uk-toggle>Read More</a>
+                    <p class="name">Steve Obura – Parent at Mavuno Church Hillside</p>
                     <span class="position">Father</span>
                   </div>
                 </div>
               </div>
               <div class="item">
-                <div class="testimony-wrap d-flex">
-                  <div class="user-img mr-4" style="background-image: url(images/teacher-2.jpg)">
-                  </div>
-                  <div class="text ml-2 bg-light">
-                  	<span class="quote d-flex align-items-center justify-content-center">
-                      <i class="icon-quote-left"></i>
-                    </span>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Henry Dee</p>
-                    <span class="position">Mother</span>
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="testimony-wrap d-flex">
-                  <div class="user-img mr-4" style="background-image: url(images/teacher-3.jpg)">
-                  </div>
-                  <div class="text ml-2 bg-light">
-                  	<span class="quote d-flex align-items-center justify-content-center">
-                      <i class="icon-quote-left"></i>
-                    </span>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Mark Huff</p>
-                    <span class="position">Mother</span>
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="testimony-wrap d-flex">
-                  <div class="user-img mr-4" style="background-image: url(images/teacher-4.jpg)">
-                  </div>
-                  <div class="text ml-2 bg-light">
-                  	<span class="quote d-flex align-items-center justify-content-center">
-                      <i class="icon-quote-left"></i>
-                    </span>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Rodel Golez</p>
-                    <span class="position">Mother</span>
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="testimony-wrap d-flex">
-                  <div class="user-img mr-4" style="background-image: url(images/teacher-1.jpg)">
-                  </div>
-                  <div class="text ml-2 bg-light">
-                  	<span class="quote d-flex align-items-center justify-content-center">
-                      <i class="icon-quote-left"></i>
-                    </span>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Ken Bosh</p>
-                    <span class="position">Mother</span>
-                  </div>
-                </div>
-              </div>
+              	<div class="testimony-wrap d-flex">
+              		<div class="user-img mr-4" style="background-image: url(images/teacher-1.jpg)">
+              		</div>
+              		<div class="text ml-2 bg-light">
+              			<span class="quote d-flex align-items-center justify-content-center">
+              				<i class="icon-quote-left"></i>
+              			</span>
+              			<p>My daughter attended the Dreamers Club Africa at Mavuno Church where we fellowship. I would
+              				highly recommend the program for the following reasons:</p>
+              			<a class="uk-button uk-button-default" href="#modal-container" uk-toggle>Read More</a>
+              			<p class="name">Steve Obura – Parent at Mavuno Church Hillside</p>
+              			<span class="position">Father</span>
+              		</div>
+              	</div>
+			  </div>
+			  <div class="item">
+			  	<div class="testimony-wrap d-flex">
+			  		<div class="user-img mr-4" style="background-image: url(images/teacher-1.jpg)">
+			  		</div>
+			  		<div class="text ml-2 bg-light">
+			  			<span class="quote d-flex align-items-center justify-content-center">
+			  				<i class="icon-quote-left"></i>
+			  			</span>
+			  			<p>My daughter attended the Dreamers Club Africa at Mavuno Church where we fellowship. I would
+			  				highly recommend the program for the following reasons:</p>
+			  			<a class="uk-button uk-button-default" href="#modal-container" uk-toggle>Read More</a>
+			  			<p class="name">Steve Obura – Parent at Mavuno Church Hillside</p>
+			  			<span class="position">Father</span>
+			  		</div>
+			  	</div>
+			  </div>
             </div>
           </div>
         </div>
@@ -882,13 +863,40 @@
           </div>
         </div>
       </div>
-    </footer>
+	</footer>
+
+	<!-- Testimonials -->
+	
+<div id="modal-container" class="uk-modal-container" uk-modal>
+	<div class="uk-modal-dialog uk-modal-body">
+		<button class="uk-modal-close-default" type="button" uk-close></button>
+		<h2 class="uk-modal-title">Steve Obura – Parent at Mavuno Church Hillside</h2>
+		 <p>My daughter attended the Dreamers Club Africa at Mavuno Church where we fellowship. I would
+		 	highly recommend the program for the following reasons:</p>
+		 <ol>
+		 	<li>It teaches financial literacy at a young age. You will not find this important life skill in the
+		 		conventional education system.</li>
+		 	<li>The tutor is not only highly qualified and knowledgeable in the subject matter, but he breaks down the
+		 		concepts to your child’s level and enjoys what he does. </li>
+		 	<li>You will see a shift in the way your child thinks and talks about money. For example, I have watched every
+		 		time I take my daughter (10 year) to shopping with her two small siblings, she is able to step in whenever
+		 		she notices the siblings demanding for more wants. She has also developed a consistent habit of not just
+		 		saving, but with a goal in mind.</li>
+		 	<li>The course is practical, and engaging for your kid and you!</li>
+		 	<li>It teaches financial literacy at a young age. You will not find this important life skill in the
+		 		conventional education system.</li>
+		 </ol>
+	</div>
+</div>
     
   
 
   <!-- loader -->
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
 
+  <!-- UIkit JS -->
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
 
   <script src="js/jquery.min.js"></script>
   <script src="js/jquery-migrate-3.0.1.min.js"></script>
