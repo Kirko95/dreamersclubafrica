@@ -16,6 +16,10 @@
     opacity: .5;
     background: #013b01;
 }
+.package ul li{
+    font-size: 14px;
+}
 .footer-color{
     background: #013b01;
 }
+
