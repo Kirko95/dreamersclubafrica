@@ -2,7 +2,15 @@
     width: 150px;
     height: auto;
 }
-
+.box-color1 {
+    background-color: #EC297B;
+}
+.box-color2{
+    background-color: #8BC53F;
+}
+.box-color3{
+    background-color: #F6921E;
+}
 /* .head-size {
     font-size: 15px;
 } */
