@@ -2,6 +2,16 @@
     width: 150px;
     height: auto;
 }
+
+.content-place{
+    margin-left: 50%;
+}
+
+.content-place h1{
+    font-size: 10px;
+    /* font-weight: 400; */
+    font-family: roboto;
+}
 .box-color1 {
     background-color: #EC297B;
 }
@@ -11,9 +21,7 @@
 .box-color3{
     background-color: #F6921E;
 }
-/* .head-size {
-    font-size: 15px;
-} */
+
 .overlay1 {
     position: absolute;
     top: 0;
