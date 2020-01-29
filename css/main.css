@@ -21,6 +21,9 @@
 .box-color3{
     background-color: #F6921E;
 }
+.position-spacing{
+    margin-top: -5%;
+}
 
 .overlay1 {
     position: absolute;
