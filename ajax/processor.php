@@ -1,34 +1,60 @@
 <?php
 require_once '../config/db.php';
+$response = array(
+    'message' => 'Error!',
+    'status' => 0
+);
 switch ($_GET['request']) {
-    case 'noficationEmail':
+    case 'quote':
+        if (
+            empty($_POST['email']) || !isset($_POST['email']) ||
+            empty($_POST['name']) || !isset($_POST['name']) ||
+            empty($_POST['kids_number']) || !isset($_POST['kids_number']) ||
+            empty($_POST['phone']) || !isset($_POST['phone'])
+        ) {
+            $response['message'] = 'Please enter all required fields!';
+        } else {
+            $email = $_POST['email'];
+            $name = $_POST['name'];
+            $kids_number = $_POST['kids_number'];
+            $phone = $_POST['phone'];
+            $created_at = date('Y-m-d H:i:s');
+            $pdo->prepare("INSERT INTO quotes(`email`,`created_at`,`name`,`kids_number`,`phone`) VALUES (?,?,?,?,?)")->execute([
+                $email, $created_at, $name, $kids_number, $phone
+            ]);
+            if ($pdo) :
+                $response['message'] = 'Thanks for your interest. We will get in touch with you shortly.';
+                $response['status'] = 1;
+            else :
+                $response['message'] = 'An error occurred' . mysqli_error($pdo);
+                $response['status'] = 0;
+            endif;
+        }
 
-        $response = array(
-            'message'=>'Error occurred!',
-            'status'=>0
-        );
+        echo json_encode($response);
+        break;
 
-        $created_at = date('Y-m-d H:i:s');
-if (
-    empty($_POST['email']) || !filter_var($_POST['email'], FILTER_VALIDATE_EMAIL)
-    ) {
-    $response['message']='Please enter valid email!';
-} else {
-    $email = filter_var(htmlentities($_POST['email']), FILTER_SANITIZE_EMAIL, FILTER_FLAG_STRIP_HIGH);
-    $sql = "INSERT INTO notification_emails (email,created_at) VALUES (?,?)";
-    $stmt= $conn->prepare($sql);
-    $insertEmail = $stmt->execute([$email,$created_at]);
-    if ($insertEmail) {
-        $response['message']='Thank you for your support! We will notify you once we are live.';
-        $response['status']=1;
-    } else {
-        $response['message']='An error occurred! Please try again.';
-    }
-}
+    case 'subscribe':
+        if (empty($_POST['email']) || !isset($_POST['email'])) {
+            $response['message'] = 'Please enter all required fields!';
+        } else {
+            $email = $_POST['email'];
+            $created_at = date('Y-m-d H:i:s');
+            $pdo->prepare("INSERT INTO subscriptions(`email`,`created_at`) VALUES (?,?)")->execute([
+                $email, $created_at
+            ]);
+            if ($pdo) :
+                $response['message'] = 'Thanks for Subscribing.';
+                $response['status'] = 1;
+            else :
+                $response['message'] = 'An error occurred' . mysqli_error($pdo);
+                $response['status'] = 0;
+            endif;
+        }
 
-echo json_encode($response);
-    break;
-    
+        echo json_encode($response);
+        break;
+
     default:
         # code...
         break;
