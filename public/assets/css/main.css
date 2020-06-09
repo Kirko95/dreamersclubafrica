@@ -1,0 +1,73 @@
+.logo-size img{
+    width: 150px;
+    height: auto;
+}
+
+.content-place{
+    margin-left: 50%;
+}
+
+.content-place h1{
+    font-size: 10px;
+    /* font-weight: 400; */
+    font-family: roboto;
+}
+.box-color1 {
+    background-color: #EC297B;
+}
+.box-color2{
+    background-color: #8BC53F;
+}
+.box-color3{
+    background-color: #F6921E;
+}
+.position-spacing{
+    margin-top: -5%;
+}
+
+.overlay1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    content: '';
+    opacity: .5;
+    background: #002F5d;
+}
+.package ul li{
+    font-size: 14px;
+}
+.footer-color{
+    background: #002F5d;
+}
+
+
+/* Register */
+
+.wrapper{
+    width: 70%;
+    margin: 0 auto;
+     -webkit-box-shadow: 0px 0px 11px 0px rgba(0, 47, 93, 0.2);
+     -moz-box-shadow: 0px 0px 11px 0px rgba(0, 47, 93, 0.2);
+     box-shadow: 0px 0px 11px 0px rgba(0, 47, 93, 0.2);
+     border-radius: 10px;
+}
+
+.wrapper form{
+    width: 70%;
+    margin: 0 auto;
+    padding-bottom: 5%;
+}
+
+
+.head-title{
+    color: #002F5d;
+    font-size: 24px;
+    margin-bottom: 5%;
+    padding-top: 5%;
+}
+
+.size-btn{
+    width: 100%;
+}
