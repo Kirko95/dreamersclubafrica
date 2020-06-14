@@ -11,6 +11,15 @@
 |
 */
 
+Route::get('/clear', function () {
+    Artisan::call('cache:clear');
+    Artisan::call('config:clear');
+    Artisan::call('config:cache');
+    Artisan::call('view:clear');
+
+    return "Cleared!";
+});
+
 Route::get('/', function () {
     return view('welcome');
 });
@@ -58,4 +67,3 @@ Route::get('/packages/weekend', function () {
 Route::get('/packages/holiday', function () {
     return view('packages/holiday');
 });
-
