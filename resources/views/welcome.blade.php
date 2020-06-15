@@ -12,7 +12,7 @@
                     <p><a href="#" class="btn btn-secondary px-4 py-3 mt-3">Read More</a></p>
                 </div>
             </div>
-        </div> 
+        </div>
     </div>
 
     <div class="slider-item" style="background-image:url({{ asset('assets/images/banner/banner1.jpg') }});">
@@ -24,7 +24,7 @@
                     <p><a href="#" class="btn btn-secondary px-4 py-3 mt-3">Read More</a></p>
                 </div>
             </div>
-        </div> 
+        </div>
     </div>
 
     <div class="slider-item" style="background-image:url({{ asset('assets/images/banner/banner3.jpg') }});">
@@ -97,7 +97,7 @@
 <section class="ftco-section ftco-no-pt ftc-no-pb">
     <div class="container">
         <div class="row">
-            
+
             <div class="col-md-12 wrap-about py-5 pr-md-4 ftco-animate">
                 <div class="text-center heading-section ftco-animate">
 					<h2 class="mb-4"><span>What We Offer</span></h2>
@@ -288,7 +288,8 @@
                         * Number of children per age group.
                     </p>
                 </div>
-                <form id="quote_form" action="" class="appointment-form ftco-animate">
+                <form id="quote_form" action="/quote" method="POST" class="appointment-form ftco-animate">
+                    @csrf
                     <div class="d-md-flex">
                         <div class="form-group">
                             <input name="name" type="text" class="form-control" placeholder="Full Name" required>

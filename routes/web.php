@@ -67,3 +67,6 @@ Route::get('/packages/weekend', function () {
 Route::get('/packages/holiday', function () {
     return view('packages/holiday');
 });
+
+Route::post('register', 'RegisterController@store')->name('register');
+Route::post('quote', 'QuoteController@store')->name('quote');

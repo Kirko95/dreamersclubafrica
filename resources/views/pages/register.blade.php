@@ -17,56 +17,57 @@
     <div class="container color-wrapper">
         <div class="wrapper">
             <h2 class="text-center head-title">Fill in the following: </h2>
-            <form>
+            <form name="register-form" class="register-form" action="/register" method="POST">
+                @csrf
                 <div class="row">
                     <div class="form-group col-md-6">
                         <label for="exampleFormControlInput1">Parent Names</label>
-                        <input type="text" class="form-control" id="" placeholder="....">
+                        <input name="parent" type="text" class="form-control" id="" placeholder="...." required>
                     </div>
                     <div class="form-group col-md-6">
                         <label for="exampleFormControlInput1">Child name</label>
-                        <input type="text" class="form-control" id="" placeholder="...">
+                        <input name="child" type="text" class="form-control" id="" placeholder="..." required>
                     </div>
                     <div class="form-group col-md-6">
                         <label for="exampleFormControlInput1">Age of child</label>
-                        <input type="number" class="form-control" id="" placeholder="...">
+                        <input name="child_age" type="number" class="form-control" id="" placeholder="..." required>
                     </div>
                     <div class="form-group col-md-6">
                         <label for="exampleFormControlInput1">Number of children</label>
-                        <input type="number" class="form-control" id="" placeholder="...">
+                        <input name="number_of_children" type="number" class="form-control" id="" placeholder="..." required>
                     </div>
                     <div class="form-group col-md-6">
                         <label for="exampleFormControlInput1">Phone Number</label>
-                        <input type="tel" class="form-control" id="" placeholder="...">
+                        <input name="phone" type="tel" class="form-control" id="" placeholder="..." required>
                     </div>
                     <div class="form-group col-md-6">
                         <label for="exampleFormControlInput1">Email</label>
-                        <input type="email" class="form-control" id="" placeholder="...">
+                        <input name="email" type="email" class="form-control" id="" placeholder="..." required>
                     </div>
                     <div class="form-group col-12">
                         <label for="exampleFormControlSelect1">Is your child intrested in finance</label>
-                        <select class="form-control" id="exampleFormControlSelect1">
-                            <option>--choose--</option>
-                            <option>yes</option>
-                            <option>No</option>
+                        <select name="isInterestedInFinance" class="form-control" id="exampleFormControlSelect1" required>
+                            <option value="">--choose--</option>
+                            <option value="yes">yes</option>
+                            <option value="no">No</option>
                         </select>
                     </div>
 
                     <div class="form-group col-12">
                         <label for="exampleFormControlSelect1">Select Package</label>
-                        <select class="form-control" id="exampleFormControlSelect1">
-                            <option>--choose--</option>
-                            <option>School</option>
-                            <option>Home Schooling</option>
-                            <option>Weekend</option>
-                            <option>Holiday Camps</option>
-                            <option>Customized</option>
+                        <select  name="package" class="form-control" id="exampleFormControlSelect1" required>
+                            <option value="">--choose--</option>
+                            <option value="school">School</option>
+                            <option value="home schooling">Home Schooling</option>
+                            <option value="weekend">Weekend</option>
+                            <option value="holiday camps">Holiday Camps</option>
+                            <option value="customized">Customized</option>
                         </select>
-                    </div> 
+                    </div>
                 </div>
-                <br> 
+                <br>
                 <div class="col-12">
-                    <button type="button" class="btn btn-secondary px-4 py-3 mt-3 size-btn">Submit</button>
+                    <button type="submit" class="btn btn-secondary px-4 py-3 mt-3 size-btn register-button">Submit</button>
                 </div>
                 <br>
             </form>
