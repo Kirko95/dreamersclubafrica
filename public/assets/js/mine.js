@@ -57,7 +57,7 @@ $(document).ready(function () {
         var form = $(".subscribe-form");
         $.ajax({
             type: "POST",
-            url: "ajax/processor.php?request=subscribe",
+            url: "/subscribe",
             data: new FormData(this),
             dataType: "json",
             processData: false,

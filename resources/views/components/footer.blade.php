@@ -61,6 +61,7 @@
                 <div class="ftco-footer-widget mb-5">
                     <h2 class="ftco-heading-2">Subscribe To Us!</h2>
                     <form action="#" class="subscribe-form">
+                        @csrf
                         <div class="form-group">
                             <input type="email" name="email" class="form-control mb-2 text-center"
                                 placeholder="Enter email address" required>
