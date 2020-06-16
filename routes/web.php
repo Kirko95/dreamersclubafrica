@@ -71,3 +71,4 @@ Route::get('/packages/holiday', function () {
 Route::post('register', 'RegisterController@store')->name('register');
 Route::post('quote', 'QuoteController@store')->name('quote');
 Route::post('subscribe', 'SubscribeController@store')->name('subscribe');
+Route::post('contact-us', 'ContactUsController@store')->name('contact-us');
