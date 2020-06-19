@@ -8,8 +8,8 @@
         <div class="container">
             <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
                 <div class="col-md-8 text-center ftco-animate">
-                    <h2 style="color: white; padding-top: 220px;" class="mb-4">FINANCIAL FREEDOM FOR YOUR CHILDREN.</h2>
-                    <p><a href="#" class="btn btn-secondary px-4 py-3 mt-3">Read More</a></p>
+                    <h2 style="color: white; padding-top: 220px;" class="mb-4">FINANCIAL FREEDOM FOR YOUR CHILDREN</h2>
+                    {{-- <p><a href="#" class="btn btn-secondary px-4 py-3 mt-3">Read More</a></p> --}}
                 </div>
             </div>
         </div>
@@ -21,7 +21,7 @@
             <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
                 <div class="col-md-8 text-center ftco-animate">
                     <h2 style="color: white; padding-top: 220px;" class="mb-4">TEACHING FINANCIAL LITERACY AND ENTREPRENEURSHIP TO THE NEXT GENERATION OF DOERS</h2>
-                    <p><a href="#" class="btn btn-secondary px-4 py-3 mt-3">Read More</a></p>
+                    {{-- <p><a href="#" class="btn btn-secondary px-4 py-3 mt-3">Read More</a></p> --}}
                 </div>
             </div>
         </div>
@@ -33,7 +33,17 @@
             <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
                 <div class="col-md-8 text-center ftco-animate">
                     <h2 style="color: white; padding-top: 230px;" class="mb-4 head-size">GIVE YOUR CHILDREN A FINANCIAL HEAD START</h2>
-                    <p><a href="/register" class="btn btn-secondary px-4 py-3 mt-3">Book Now</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="slider-item" style="background-image:url({{ asset('assets/images/banner/banner3.jpg') }});">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
+                <div class="col-md-8 text-center ftco-animate">
+                    <h2 style="color: white; padding-top: 230px;" class="mb-4 head-size">GIVE YOUR CHILDREN A FINANCIAL HEAD START</h2>
                 </div>
             </div>
         </div>
@@ -188,7 +198,7 @@
             <div class="course d-lg-flex ftco-animate">
                 <div class="img col-md-6" style="background-image: url({{ asset('assets/images/quadrant.png') }}); height: auto;"></div>
                 <div class="text bg-light p-4 col-md-6">
-                    <h3><a href="#">Financial Fitness for Life</a></h3>
+                    <h3>Financial Fitness for Life</h3>
                     <p class="subheading"><span>Class time:</span> 9:00am - 12pm</p>
                     <p class="subheading"><span>Class time:</span> 1:30pm - 4.30pm</p>
                     <p>Our programs are designed to shift the kids and teens minds from the left side of the

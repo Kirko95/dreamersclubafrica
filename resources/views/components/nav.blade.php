@@ -11,7 +11,7 @@
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item active"><a href="/" class="nav-link pl-0">Home</a></li>
                 <li class="nav-item"><a href="/about" class="nav-link">About Us</a></li>
-                <li class="nav-item"><a href="/programs" class="nav-link"> Our Programs</a></li>
+                <li class="nav-item"><a href="/programs" class="nav-link"> Our Program</a></li>
                 <li class="nav-item"><a href="/gallery" class="nav-link">Gallery</a></li>
                 <li class="nav-item"><a href="/contact" class="nav-link">Contact Us</a></li>
                 <li class="nav-item"><a href="/#blog" class="nav-link">Blog</a></li>
