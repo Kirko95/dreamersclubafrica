@@ -134,11 +134,11 @@
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <h2 class="uk-modal-title">Peter Chege - Software Developer</h2>
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
-                                        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
-                                        laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in 
-                                        voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat 
-                                        non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                        I am a proactive software engineer and full-stack developer, with 5+ years of work
+                                        experience in the information technology, health, and financial services industry. 
+                                        I leverage a proven knowledge of application development (mobile, web & desktop), real-time data, 
+                                        analytics, cloud computing, and emerging technologies skills to successfully deploy products that 
+                                        are of high quality, disruptive, and long-lasting. 
                                     </p>
                                 </div>
                             </div>
@@ -162,7 +162,7 @@
                             <div id="modal-container2" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <h2 class="uk-modal-title">Magdalyne Wanjiru - Co-Founder</h2>
+                                    <h2 class="uk-modal-title">Wanjiru Mwita - Co-Founder</h2>
                                     <p>
                                         Wanjiru is a finance professional with over 20 years experience in both private and public 
                                         sectors in the East African Region.  She is  widely equipped in financial management, 
