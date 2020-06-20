@@ -140,8 +140,8 @@
                                 <p>
                                     My name is Godwin Makokha. I am the center manager for an NGO called CAP youth empowerment institute Athi River center. It’s a registered NGO which offers basic employability skills training to youths for a period of 3 months and then links them to placement opportunities. We offer ...
                                 </p>
-                                <a class="uk-button uk-button-default" href="#modal-container3" uk-toggle>Read More</a>
-                                <div id="modal-container3" class="uk-modal-container" uk-modal>
+                                <a class="uk-button uk-button-default" href="#modal-container4" uk-toggle>Read More</a>
+                                <div id="modal-container4" class="uk-modal-container" uk-modal>
                                     <div class="uk-modal-dialog uk-modal-body">
                                         <button class="uk-modal-close-default container" type="button" uk-close></button>
                                         <h2 class="uk-modal-title">Godwin Makokha – Manager CAP Youth Empowerment Institute (Athi River)</h2>
@@ -171,8 +171,8 @@
                                 <p>
                                     Our teacher has brought fun in learning about money management and entrepreneurship. We often play games to help us understand and focus on what we are taught ...
                                 </p>
-                                <a class="uk-button uk-button-default" href="#modal-container3" uk-toggle>Read More</a>
-                                <div id="modal-container3" class="uk-modal-container" uk-modal>
+                                <a class="uk-button uk-button-default" href="#modal-container5" uk-toggle>Read More</a>
+                                <div id="modal-container5" class="uk-modal-container" uk-modal>
                                     <div class="uk-modal-dialog uk-modal-body">
                                         <button class="uk-modal-close-default container" type="button" uk-close></button>
                                         <h2 class="uk-modal-title">Octavia – Student at Mavuno Church Hillside </h2>
@@ -204,8 +204,8 @@
                                 <p>
                                     Dreamers Club Africa is not only full of useful and practical information, but very interesting. I do feel every child should be exposed to these classes. ...
                                 </p>
-                                <a class="uk-button uk-button-default" href="#modal-container3" uk-toggle>Read More</a>
-                                <div id="modal-container3" class="uk-modal-container" uk-modal>
+                                <a class="uk-button uk-button-default" href="#modal-container6" uk-toggle>Read More</a>
+                                <div id="modal-container6" class="uk-modal-container" uk-modal>
                                     <div class="uk-modal-dialog uk-modal-body">
                                         <button class="uk-modal-close-default container" type="button" uk-close></button>
                                         <h2 class="uk-modal-title">Trevor Johnes – Student at Mavuno Church Hillside </h2>
@@ -233,8 +233,8 @@
                                 <p>
                                     In all honesty, I wish I had learnt the many valuable lessons Dreamers Club Africa taught me when I was a little boy. When I joined CAP Youth Institute ...
                                 </p>
-                                <a class="uk-button uk-button-default" href="#modal-container3" uk-toggle>Read More</a>
-                                <div id="modal-container3" class="uk-modal-container" uk-modal>
+                                <a class="uk-button uk-button-default" href="#modal-container7" uk-toggle>Read More</a>
+                                <div id="modal-container7" class="uk-modal-container" uk-modal>
                                     <div class="uk-modal-dialog uk-modal-body">
                                         <button class="uk-modal-close-default container" type="button" uk-close></button>
                                         <h2 class="uk-modal-title">Levis Irungu – Former CAP Youth Institute Student </h2>
