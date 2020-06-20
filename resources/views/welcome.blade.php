@@ -38,7 +38,7 @@
         </div>
     </div>
 
-    <div class="slider-item" style="background-image:url({{ asset('assets/images/banner/banner3.jpg') }});">
+    <div class="slider-item" style="background-image:url({{ asset('assets/images/gallery/5.jpg') }});">
         <div class="overlay"></div>
         <div class="container">
             <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
@@ -254,7 +254,7 @@
                         <div class="block-18">
                             <div class="icon"><span class="flaticon-doctor"></span></div>
                             <div class="text">
-                                <strong class="number" data-number="94">0 </strong>
+                                <strong class="number" data-number="310">0 </strong>
                                 <span>Number of Classes</span>
                             </div>
                         </div>
@@ -263,7 +263,7 @@
                         <div class="block-18">
                             <div class="icon"><span class="flaticon-doctor"></span></div>
                             <div class="text">
-                                <strong class="number" data-number="157">0</strong>
+                                <strong class="number" data-number="270">0</strong>
                                 <span>Happy Parents</span>
                             </div>
                         </div>
@@ -272,8 +272,8 @@
                         <div class="block-18">
                             <div class="icon"><span class="flaticon-doctor"></span></div>
                             <div class="text">
-                                <strong class="number" data-number="170">0</strong>
-                                <span>Kids who completed</span>
+                                <strong class="number" data-number="310">0</strong>
+                                <span>Kids & teens who completed</span>
                             </div>
                         </div>
                     </div>
@@ -339,7 +339,7 @@
 
 
 
-<section id="blog" class="ftco-section bg-light">
+{{-- <section id="blog" class="ftco-section bg-light">
     <div class="container">
         <div class="row justify-content-center mb-5 pb-2">
             <div class="col-md-8 text-center heading-section ftco-animate">
@@ -421,5 +421,6 @@
             </div>
         </div>
     </div>
-</section>
+</section> --}}
+<br>
 @endsection
