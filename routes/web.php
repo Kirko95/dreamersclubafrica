@@ -68,7 +68,7 @@ Route::get('/packages/holiday', function () {
     return view('packages/holiday');
 });
 
-Route::post('register', 'RegisterController@store')->name('register');
+Route::post('register', 'ParetController@store')->name('register');
 Route::post('quote', 'QuoteController@store')->name('quote');
 Route::post('subscribe', 'SubscribeController@store')->name('subscribe');
 Route::post('contact-us', 'ContactUsController@store')->name('contact-us');
