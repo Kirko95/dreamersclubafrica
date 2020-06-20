@@ -73,9 +73,9 @@
                 <div class="ftco-footer-widget mb-5">
                     <h2 class="ftco-heading-2 mb-0">Connect With Us</h2>
                     <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
-                        <li class="ftco-animate"><a href="https://www.linkedin.com/Dreamers-club-africa" target="_blank_"><span class="icon-linkedin"></span></a></li>
+                        <li class="ftco-animate"><a href="https://twitter.com/africa_dreamers" target="_blank_"><span class="icon-twitter"></span></a></li>
                         <li class="ftco-animate"><a href="https://www.facebook.com/Dreamers-Club-Africa-112049993721022/" target="_blank_"><span class="icon-facebook"></span></a></li>
-                        <li class="ftco-animate"><a href="https://www.instagram.com/dreamers.club.africa/" target="_blank_"><span class="icon-instagram"></span></a></li>
+                        <li class="ftco-animate"><a href="https://www.instagram.com/dreamers.club.africa/?hl=en " target="_blank_"><span class="icon-instagram"></span></a></li>
                     </ul>
                 </div>
             </div>
