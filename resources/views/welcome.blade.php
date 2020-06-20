@@ -190,7 +190,7 @@
     <div class="container">
         <div class="row justify-content-center mb-5 pb-2">
             <div class="text-center heading-section ftco-animate">
-                <h2 class="mb-4 text-center"><span>Our </span> Programs</h2>
+                <h2 class="mb-4 text-center"><span>Our </span> Program</h2>
                 <p style="text-align:justify;">Financial Fitness for Life (F.F.4.L) is our umbrella program which combines psychology (the right financial mindset), money management, investments and entrepreneurship. Our program is simple but effective and is designed to teach and share revolutionary wisdom with the next generation. We tailor our content and teaching methods to suit each age group. The vital knowledge and experience the children gain will set them free and shift their minds from aiming to work for money, to money working for them. </p>
             </div>
         </div>
@@ -209,6 +209,9 @@
                     <div class="btn-read row">
                         <div class="col-6">
                             <p><a href="/register" class="btn btn-primary px-3 py-1">Book Now</a></p>
+                        </div>
+                        <div class="col-6">
+                            <p><a href="/programs" class="btn btn-secondary px-3 py-1">Read More</a></p>
                         </div>
 
                     </div>
@@ -251,7 +254,7 @@
                         <div class="block-18">
                             <div class="icon"><span class="flaticon-doctor"></span></div>
                             <div class="text">
-                                <strong class="number" data-number="90">0 </strong>
+                                <strong class="number" data-number="94">0 </strong>
                                 <span>Number of Classes</span>
                             </div>
                         </div>
@@ -260,7 +263,7 @@
                         <div class="block-18">
                             <div class="icon"><span class="flaticon-doctor"></span></div>
                             <div class="text">
-                                <strong class="number" data-number="100">0</strong>
+                                <strong class="number" data-number="157">0</strong>
                                 <span>Happy Parents</span>
                             </div>
                         </div>
