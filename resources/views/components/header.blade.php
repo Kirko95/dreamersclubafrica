@@ -5,13 +5,11 @@
                 <div class="row d-flex">
                     <div class="offset-8"> </div>
                     <div class="col-md pr-4 d-flex topper align-items-center">
-                        <div class="icon bg-secondary mr-2 d-flex justify-content-center align-items-center"><span
-                            class="icon-paper-plane"></span></div>
-                        <span class="text">info@dreamersafrica.com</span>
+                        <div class="icon bg-secondary mr-2 d-flex justify-content-center align-items-center"><span class="icon-paper-plane"></span></div>
+                        <span class="text">info@dreamersclubafrica.com</span>
                     </div>
                     <div class="col-md pr-4 d-flex topper align-items-center">
-                        <div class="icon bg-tertiary mr-2 d-flex justify-content-center align-items-center"><span
-                            class="icon-phone2"></span></div>
+                        <div class="icon bg-tertiary mr-2 d-flex justify-content-center align-items-center"><span class="icon-phone2"></span></div>
                         <span class="text">+254 700 323 810</span>
                     </div>
                 </div>

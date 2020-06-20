@@ -8,8 +8,8 @@
         <div class="container">
             <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
                 <div class="col-md-8 text-center ftco-animate">
-                    <h2 style="color: white; padding-top: 220px;" class="mb-4">FINANCIAL FREEDOM FOR YOUR CHILDREN.</h2>
-                    <p><a href="#" class="btn btn-secondary px-4 py-3 mt-3">Read More</a></p>
+                    <h2 style="color: white; padding-top: 220px;" class="mb-4">FINANCIAL FREEDOM FOR YOUR CHILDREN</h2>
+                    {{-- <p><a href="#" class="btn btn-secondary px-4 py-3 mt-3">Read More</a></p> --}}
                 </div>
             </div>
         </div>
@@ -21,7 +21,7 @@
             <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
                 <div class="col-md-8 text-center ftco-animate">
                     <h2 style="color: white; padding-top: 220px;" class="mb-4">TEACHING FINANCIAL LITERACY AND ENTREPRENEURSHIP TO THE NEXT GENERATION OF DOERS</h2>
-                    <p><a href="#" class="btn btn-secondary px-4 py-3 mt-3">Read More</a></p>
+                    {{-- <p><a href="#" class="btn btn-secondary px-4 py-3 mt-3">Read More</a></p> --}}
                 </div>
             </div>
         </div>
@@ -33,7 +33,18 @@
             <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
                 <div class="col-md-8 text-center ftco-animate">
                     <h2 style="color: white; padding-top: 230px;" class="mb-4 head-size">GIVE YOUR CHILDREN A FINANCIAL HEAD START</h2>
-                    <p><a href="/register" class="btn btn-secondary px-4 py-3 mt-3">Book Now</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="slider-item" style="background-image:url({{ asset('assets/images/gallery/5.jpg') }});">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
+                <div class="col-md-8 text-center ftco-animate">
+                    <h2 style="color: white; padding-top: 230px;" class="mb-4 head-size">We’re conducting our lessons online via Google Meet!</h2>
+                     <p><a href="/contact" class="btn btn-secondary px-4 py-3 mt-3"> Contact us</a></p>
                 </div>
             </div>
         </div>
@@ -180,7 +191,7 @@
     <div class="container">
         <div class="row justify-content-center mb-5 pb-2">
             <div class="text-center heading-section ftco-animate">
-                <h2 class="mb-4 text-center"><span>Our </span> Programs</h2>
+                <h2 class="mb-4 text-center"><span>Our </span> Program</h2>
                 <p style="text-align:justify;">Financial Fitness for Life (F.F.4.L) is our umbrella program which combines psychology (the right financial mindset), money management, investments and entrepreneurship. Our program is simple but effective and is designed to teach and share revolutionary wisdom with the next generation. We tailor our content and teaching methods to suit each age group. The vital knowledge and experience the children gain will set them free and shift their minds from aiming to work for money, to money working for them. </p>
             </div>
         </div>
@@ -188,7 +199,7 @@
             <div class="course d-lg-flex ftco-animate">
                 <div class="img col-md-6" style="background-image: url({{ asset('assets/images/quadrant.png') }}); height: auto;"></div>
                 <div class="text bg-light p-4 col-md-6">
-                    <h3><a href="#">Financial Fitness for Life</a></h3>
+                    <h3>Financial Fitness for Life</h3>
                     <p class="subheading"><span>Class time:</span> 9:00am - 12pm</p>
                     <p class="subheading"><span>Class time:</span> 1:30pm - 4.30pm</p>
                     <p>Our programs are designed to shift the kids and teens minds from the left side of the
@@ -199,6 +210,9 @@
                     <div class="btn-read row">
                         <div class="col-6">
                             <p><a href="/register" class="btn btn-primary px-3 py-1">Book Now</a></p>
+                        </div>
+                        <div class="col-6">
+                            <p><a href="/programs" class="btn btn-secondary px-3 py-1">Read More</a></p>
                         </div>
 
                     </div>
@@ -241,7 +255,7 @@
                         <div class="block-18">
                             <div class="icon"><span class="flaticon-doctor"></span></div>
                             <div class="text">
-                                <strong class="number" data-number="90">0 </strong>
+                                <strong class="number" data-number="310">0 </strong>
                                 <span>Number of Classes</span>
                             </div>
                         </div>
@@ -250,7 +264,7 @@
                         <div class="block-18">
                             <div class="icon"><span class="flaticon-doctor"></span></div>
                             <div class="text">
-                                <strong class="number" data-number="100">0</strong>
+                                <strong class="number" data-number="270">0</strong>
                                 <span>Happy Parents</span>
                             </div>
                         </div>
@@ -259,8 +273,8 @@
                         <div class="block-18">
                             <div class="icon"><span class="flaticon-doctor"></span></div>
                             <div class="text">
-                                <strong class="number" data-number="170">0</strong>
-                                <span>Kids who completed</span>
+                                <strong class="number" data-number="310">0</strong>
+                                <span>Kids & teens who completed</span>
                             </div>
                         </div>
                     </div>
@@ -326,7 +340,7 @@
 
 
 
-<section id="blog" class="ftco-section bg-light">
+{{-- <section id="blog" class="ftco-section bg-light">
     <div class="container">
         <div class="row justify-content-center mb-5 pb-2">
             <div class="col-md-8 text-center heading-section ftco-animate">
@@ -408,5 +422,6 @@
             </div>
         </div>
     </div>
-</section>
+</section> --}}
+<br>
 @endsection

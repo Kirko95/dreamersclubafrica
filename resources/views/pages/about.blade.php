@@ -84,7 +84,7 @@
             <div class="col-md-6 col-lg-4 ftco-animate">
                 <div class="staff">
                     <div class="img-wrap d-flex align-items-stretch">
-                        <div class="img align-self-stretch" style="background-image: url({{asset('assets/images/team/kibe.jpg')}});"></div>
+                        <div class="img align-self-stretch" style="background-image: url({{asset('assets/images/team/kibe.jpg')}});background-size: contain;"></div>
                     </div>
                     <div class="text pt-3 text-center">
                         <h3>Andrew Kibe</h3>
@@ -99,7 +99,18 @@
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <h2 class="uk-modal-title">Andrew Kibe - Founder</h2>
                                     <p>
-                                        Andrew is the founder of Dreamers Club Africa. He is a consultant in financial risk management with a background in Actuarial Mathematics, Financial Modelling, Risk Management and Derivatives. He attained these in Scotland and South Africa. He has over 14 years of experience having worked in different finance sectors: Capital Markets, Banking, Credit Reference Bureau and the Pension Industry. As a father, Andrew is deeply concerned about the future of the next generation. He loves sharing with kids and teens things that he has learnt in his life that help him every day - things that he wishes he had been taught at a young age. He enjoys talking to curious minds and listening to their refreshing views and observing their sincere reactions. He enjoys every single encounter and it makes him proud to see Dreamers Club Africa students discuss important issues, thinking, wondering and investigating by themselves. Finally, Andrew loves the idea of expanding human potential, and he believes there is no better place to start than educating children. He feels honored to be proven right with the Dreamers Club Africa success stories he had last year (2019)
+                                        Andrew is the founder of Dreamers Club Africa. He is a consultant in financial risk management with a 
+                                        background in Actuarial Mathematics, Financial Modelling, Risk Management and Derivatives. He attained 
+                                        these in Scotland and South Africa. He has over 14 years of experience having worked in different finance 
+                                        sectors: Capital Markets, Banking, Credit Reference Bureau and the Pension Industry. As a father, Andrew 
+                                        is deeply concerned about the future of the next generation. He loves sharing with kids and teens things 
+                                        that he has learnt in his life that help him every day - things that he wishes he had been taught at a 
+                                        young age. He enjoys talking to curious minds and listening to their refreshing views and observing their 
+                                        sincere reactions. He enjoys every single encounter and it makes him proud to see Dreamers Club Africa 
+                                        students discuss important issues, thinking, wondering and investigating by themselves. Finally, Andrew 
+                                        loves the idea of expanding human potential, and he believes there is no better place to start than 
+                                        educating children. He feels honored to be proven right with the Dreamers Club Africa success stories 
+                                        he had last year (2019)
                                     </p>
                                 </div>
                             </div>
@@ -110,20 +121,24 @@
             <div class="col-md-6 col-lg-4 ftco-animate">
                 <div class="staff">
                     <div class="img-wrap d-flex align-items-stretch">
-                        <div class="img align-self-stretch" style="background-image: url({{asset('assets/images/team/peter.png')}});"></div>
+                        <div class="img align-self-stretch" style="background-image: url({{asset('assets/images/team/peter.jpg')}}); background-size: contain;"></div>
                     </div>
                     <div class="text pt-3 text-center">
                         <h3>Peter Chege</h3>
                         <span class="position mb-2">Director</span>
                         <div class="faded">
                             <p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
-                            <a class="uk-button uk-button-default" href="#modal-container" uk-toggle>Read More</a>
-                            <div id="modal-container" class="uk-modal-container" uk-modal>
+                            <a class="uk-button uk-button-default" href="#modal-container1" uk-toggle>Read More</a>
+                            <div id="modal-container1" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <h2 class="uk-modal-title">Peter Chege - Software Developer</h2>
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
+                                        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
+                                        laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in 
+                                        voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat 
+                                        non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                                     </p>
                                 </div>
                             </div>
@@ -134,7 +149,7 @@
             <div class="col-md-6 col-lg-4 ftco-animate">
                 <div class="staff">
                     <div class="img-wrap d-flex align-items-stretch">
-                        <div class="img align-self-stretch" style="background-image: url({{asset('assets/images/image_1.jpg')}});"></div>
+                        <div class="img align-self-stretch" style="background-image: url({{asset('assets/images/avatar/mum.png')}}); background-size: contain;"></div>
                     </div>
                     <div class="text pt-3 text-center">
                         <h3>Magdalyne Wanjiru</h3>
@@ -143,13 +158,17 @@
                             <p>
                                 Magdalyne is a finance professional with over 20 years experience in both ...
                             </p>
-                            <a class="uk-button uk-button-default" href="#modal-container" uk-toggle>Read More</a>
-                            <div id="modal-container" class="uk-modal-container" uk-modal>
+                            <a class="uk-button uk-button-default" href="#modal-container2" uk-toggle>Read More</a>
+                            <div id="modal-container2" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <h2 class="uk-modal-title">Magdalyne Wanjiru - Co-Founder</h2>
                                     <p>
-                                        Wanjiru is a finance professional with over 20 years experience in both private and public sectors in the East African Region.  She is  widely equipped in financial management, strategic management, operations management and team leadership.   She is a fellow member of the Association of Chartered Certified Accountants.  She holds a Bachelors degree in Accounting and a Masters degree in Business Administartion.  She is married with two children.
+                                        Wanjiru is a finance professional with over 20 years experience in both private and public 
+                                        sectors in the East African Region.  She is  widely equipped in financial management, 
+                                        strategic management, operations management and team leadership.   She is a fellow member 
+                                        of the Association of Chartered Certified Accountants.  She holds a Bachelors degree in 
+                                        Accounting and a Masters degree in Business Administartion.  She is married with two children.
                                     </p>
                                 </div>
                             </div>
