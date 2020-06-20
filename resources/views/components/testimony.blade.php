@@ -104,7 +104,7 @@
                     </div>
                     <div class="item">
                         <div class="testimony-wrap d-flex">
-                            <div class="user-img mr-4" style="background-image: url({{ asset('assets/images/avatar/mum.png') }})">
+                            <div class="user-img mr-4" style="background-image: url({{ asset('assets/images/avatar/dad.png') }})">
                             </div>
                             <div class="text ml-2 bg-light">
                                 <span class="quote d-flex align-items-center justify-content-center">
