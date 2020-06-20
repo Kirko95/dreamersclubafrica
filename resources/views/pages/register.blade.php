@@ -20,30 +20,27 @@
             <form name="register-form" class="register-form" action="/register" method="POST">
                 @csrf
                 <div class="row">
+                    <div class="col-12">
+                        <h3 class="text-left ">Parent details: </h3>
+                    </div>
+                    
                     <div class="form-group col-md-6">
-                        <label for="exampleFormControlInput1">Parent Names</label>
-                        <input name="parent" type="text" class="form-control" id="" placeholder="...." required>
+                        <label for="fname">First Name</label>
+                        <input name="parent" type="text" class="form-control" id="" placeholder="e.g john" required>
                     </div>
                     <div class="form-group col-md-6">
-                        <label for="exampleFormControlInput1">Child name</label>
-                        <input name="child" type="text" class="form-control" id="" placeholder="..." required>
-                    </div>
-                    <div class="form-group col-md-6">
-                        <label for="exampleFormControlInput1">Age of child</label>
-                        <input name="child_age" type="number" class="form-control" id="" placeholder="..." required>
-                    </div>
-                    <div class="form-group col-md-6">
-                        <label for="exampleFormControlInput1">Number of children</label>
-                        <input name="number_of_children" type="number" class="form-control" id="" placeholder="..." required>
-                    </div>
-                    <div class="form-group col-md-6">
-                        <label for="exampleFormControlInput1">Phone Number</label>
-                        <input name="phone" type="tel" class="form-control" id="" placeholder="..." required>
+                        <label for="lname">Last name</label>
+                        <input name="child" type="text" class="form-control" id="" placeholder=" e.g doe" required>
                     </div>
                     <div class="form-group col-md-6">
                         <label for="exampleFormControlInput1">Email</label>
-                        <input name="email" type="email" class="form-control" id="" placeholder="..." required>
+                        <input name="email" type="email" class="form-control" id="" placeholder=" e.g john@gmail.com" required>
                     </div>
+                    <div class="form-group col-md-6">
+                        <label for="exampleFormControlInput1">Phone Number</label>
+                        <input name="phone" type="tel" class="form-control" id="" placeholder=" e.g 07xx 342 xxx" required>
+                    </div>
+                    
                     <div class="form-group col-12">
                         <label for="exampleFormControlSelect1">Is your child intrested in finance</label>
                         <select name="isInterestedInFinance" class="form-control" id="exampleFormControlSelect1" required>
