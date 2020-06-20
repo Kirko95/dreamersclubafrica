@@ -43,7 +43,8 @@
         <div class="container">
             <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
                 <div class="col-md-8 text-center ftco-animate">
-                    <h2 style="color: white; padding-top: 230px;" class="mb-4 head-size">GIVE YOUR CHILDREN A FINANCIAL HEAD START</h2>
+                    <h2 style="color: white; padding-top: 230px;" class="mb-4 head-size">We’re conducting our lessons online via Google Meet!</h2>
+                     <p><a href="/contact" class="btn btn-secondary px-4 py-3 mt-3"> Contact us</a></p>
                 </div>
             </div>
         </div>
