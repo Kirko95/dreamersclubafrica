@@ -58,11 +58,11 @@
                     </div>
                     <div class="form-group col-md-6">
                         <label for="exampleFormControlInput1">Email</label>
-                        <input name="child_email[]" type="email" class="form-control" id="" placeholder=" e.g john@gmail.com" required>
+                        <input name="child_email[]" type="email" class="form-control" id="" placeholder=" e.g john@gmail.com" >
                     </div>
                     <div class="form-group col-md-6">
                         <label for="exampleFormControlInput1">Phone Number</label>
-                        <input name="child_phone[]" type="tel" class="form-control" id="" placeholder=" e.g 07xx 342 xxx" required>
+                        <input name="child_phone[]" type="tel" class="form-control" id="" placeholder=" e.g 07xx 342 xxx" >
                     </div>
 
                     <div class="col-6">
@@ -77,6 +77,7 @@
                         <select  name="package[]" class="form-control" id="exampleFormControlSelect1" required>
                             <option value="">--choose--</option>
                             <option value="school">School</option>
+                            <option value="zoom online classes">Zoom Online Classes</option>
                             <option value="home schooling">Home Schooling</option>
                             <option value="weekend">Weekend</option>
                             <option value="holiday camps">Holiday Camps</option>

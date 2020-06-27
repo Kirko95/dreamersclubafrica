@@ -11,7 +11,7 @@
                             <li><a href="#"><span class="icon icon-phone"></span><span class="text">+254 700 323
                                         810</span></a></li>
                             <li><a href="#"><span class="icon icon-envelope"></span><span
-                                        class="text">info@dreamersafrica.com</span></a></li>
+                                        class="text">info@dreamersclubafrica.com</span></a></li>
                         </ul>
                     </div>
                 </div>

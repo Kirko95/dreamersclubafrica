@@ -17,8 +17,9 @@ class CreateChildrenTable extends Migration
             $table->bigIncrements('id');
             $table->string('first_name', 255);
             $table->string('last_name', 255);
-            $table->string('email', 255);
-            $table->string('phone', 255);
+            $table->string('email', 255)->nullable();
+            $table->string('phone', 255)->nullable();
+            $table->enum('package', ['school', 'home schooling','zoom online classes','weekend','holiday camps','customized','not sure'])->nullable();
             $table->unsignedBigInteger('paret_id');
             $table->foreign('paret_id')->references('id')->on('parets')->onDelete('cascade');
             $table->timestamps();

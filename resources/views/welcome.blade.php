@@ -43,7 +43,7 @@
         <div class="container">
             <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
                 <div class="col-md-8 text-center ftco-animate">
-                    <h2 style="color: white; padding-top: 230px;" class="mb-4 head-size">We’re conducting our lessons online via Google Meet!</h2>
+                    <h2 style="color: white; padding-top: 230px;" class="mb-4 head-size">We’re conducting our lessons online via Zoom!</h2>
                      <p><a href="/contact" class="btn btn-secondary px-4 py-3 mt-3"> Contact us</a></p>
                 </div>
             </div>
@@ -255,7 +255,7 @@
                         <div class="block-18">
                             <div class="icon"><span class="flaticon-doctor"></span></div>
                             <div class="text">
-                                <strong class="number" data-number="310">0 </strong>
+                                <strong class="number" data-number="100">0 </strong>
                                 <span>Number of Classes</span>
                             </div>
                         </div>

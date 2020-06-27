@@ -5,7 +5,7 @@
                 <div class="row d-flex">
                     <div class="offset-8"> </div>
                     <div class="col-md pr-4 d-flex topper align-items-center">
-                        <div class="icon bg-secondary mr-2 d-flex justify-content-center align-items-center"><span class="icon-paper-plane"></span></div>
+                        <div class="icon bg-secondary mr-2 d-flex justify-content-center align-items-center"><a href="mailto:info@dreamerclubafrica.com"><span class="icon-paper-plane"></span></a></div>
                         <span class="text">info@dreamersclubafrica.com</span>
                     </div>
                     <div class="col-md pr-4 d-flex topper align-items-center">

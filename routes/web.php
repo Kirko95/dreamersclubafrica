@@ -75,7 +75,7 @@ Route::post('contact-us', 'ContactUsController@store')->name('contact-us');
 
 Route::get('/send-mail', function () {
     $data=[
-        'title'=>'Mail From '.config('mail.reply_to'),
+        'title'=>'Mail From ',
         'body'=>'This is the form',
         'reply_to'=>config('mail.reply_to')
     ];
