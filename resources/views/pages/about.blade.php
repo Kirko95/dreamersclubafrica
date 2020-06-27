@@ -134,11 +134,9 @@
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <h2 class="uk-modal-title">Peter Chege - Software Developer</h2>
                                     <p>
-                                        I am a proactive software engineer and full-stack developer, with 5+ years of work
-                                        experience in the information technology, health, and financial services industry. 
-                                        I leverage a proven knowledge of application development (mobile, web & desktop), real-time data, 
-                                        analytics, cloud computing, and emerging technologies skills to successfully deploy products that 
-                                        are of high quality, disruptive, and long-lasting. 
+                                        Peter is a performance driven and experienced Software Engineer and has been working in Data / Business Intelligence roles for over 5 years. He
+is passionate in the information technology and skilled in Mobile Application, Web and Desktop Development, User Experience (UX), User Interface
+Design, Cloud Computing, Big Data Analytics and Real-Time Data. Peter is also driven to empower children and youths in a holistic manner. 
                                     </p>
                                 </div>
                             </div>
@@ -149,10 +147,10 @@
             <div class="col-md-6 col-lg-4 ftco-animate">
                 <div class="staff">
                     <div class="img-wrap d-flex align-items-stretch">
-                        <div class="img align-self-stretch" style="background-image: url({{asset('assets/images/avatar/mum.png')}}); background-size: contain;"></div>
+                        <div class="img align-self-stretch" style="background-image: url({{asset('assets/images/team/wanjiru.jpg')}}); background-size: contain;"></div>
                     </div>
                     <div class="text pt-3 text-center">
-                        <h3>Magdalyne Wanjiru</h3>
+                        <h3>Wanjiru Muita</h3>
                         <span class="position mb-2">Director</span>
                         <div class="faded">
                             <p>
