@@ -72,3 +72,12 @@ Route::post('register', 'ParetController@store')->name('register');
 Route::post('quote', 'QuoteController@store')->name('quote');
 Route::post('subscribe', 'SubscribeController@store')->name('subscribe');
 Route::post('contact-us', 'ContactUsController@store')->name('contact-us');
+
+Route::get('/send-mail', function () {
+    $data=[
+        'title'=>'Mail From '.config('mail.reply_to'),
+        'body'=>'This is the form',
+        'reply_to'=>config('mail.reply_to')
+    ];
+    Mail::to('anthony.baru@apollo.co.ke')->send(new \App\Mail\SendMail($data));
+});

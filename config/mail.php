@@ -133,4 +133,9 @@ return [
 
     'log_channel' => env('MAIL_LOG_CHANNEL'),
 
+
+    'reply_to' => [
+        'address' => 'info@xxxxx.com',
+        'name' => 'Reply to name',
+    ],
 ];
