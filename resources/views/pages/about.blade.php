@@ -127,7 +127,7 @@
                         <h3>Peter Chege</h3>
                         <span class="position mb-2">Director</span>
                         <div class="faded">
-                            <p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+                            <p>Peter is a performance driven and experienced Software Engineer and has been working in Data / Business Intelligence roles for over 5 years.</p>
                             <a class="uk-button uk-button-default" href="#modal-container1" uk-toggle>Read More</a>
                             <div id="modal-container1" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
