@@ -160,7 +160,7 @@ Design, Cloud Computing, Big Data Analytics and Real-Time Data. Peter is also d
                             <div id="modal-container2" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <h2 class="uk-modal-title">Wanjiru Mwita - Co-Founder</h2>
+                                    <h2 class="uk-modal-title">Wanjiru Muita - Director</h2>
                                     <p>
                                         Wanjiru is a finance professional with over 20 years experience in both private and public 
                                         sectors in the East African Region.  She is  widely equipped in financial management, 
