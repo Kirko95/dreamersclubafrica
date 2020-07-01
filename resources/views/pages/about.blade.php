@@ -154,7 +154,7 @@ Design, Cloud Computing, Big Data Analytics and Real-Time Data. Peter is also d
                         <span class="position mb-2">Director</span>
                         <div class="faded">
                             <p>
-                                Magdalyne is a finance professional with over 20 years experience in both ...
+                                Wanjiru is a finance professional with over 20 years experience in both ...
                             </p>
                             <a class="uk-button uk-button-default" href="#modal-container2" uk-toggle>Read More</a>
                             <div id="modal-container2" class="uk-modal-container" uk-modal>
