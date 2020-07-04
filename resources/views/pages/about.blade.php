@@ -88,7 +88,7 @@
                     </div>
                     <div class="text pt-3 text-center">
                         <h3>Andrew Kibe</h3>
-                        <span class="position mb-2">Director</span>
+                        <span class="position mb-2">Founder</span>
                         <div class="faded">
                             <p>
                                 Andrew is the founder of Dreamers Club Africa. He is a consultant in financial ...
@@ -132,7 +132,7 @@
                             <div id="modal-container1" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <h2 class="uk-modal-title">Peter Chege - Software Developer</h2>
+                                    <h2 class="uk-modal-title">Peter Chege - Director</h2>
                                     <p>
                                         Peter is a performance driven and experienced Software Engineer and has been working in Data / Business Intelligence roles for over 5 years. He
 is passionate in the information technology and skilled in Mobile Application, Web and Desktop Development, User Experience (UX), User Interface
