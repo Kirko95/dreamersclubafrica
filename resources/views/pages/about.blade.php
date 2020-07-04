@@ -135,8 +135,8 @@
                                     <h2 class="uk-modal-title">Peter Chege - Director</h2>
                                     <p>
                                         Peter is a performance driven and experienced Software Engineer and has been working in Data / Business Intelligence roles for over 5 years. He
-is passionate in the information technology and skilled in Mobile Application, Web and Desktop Development, User Experience (UX), User Interface
-Design, Cloud Computing, Big Data Analytics and Real-Time Data. Peter is also driven to empower children and youths in a holistic manner. 
+                                        is passionate in the information technology and skilled in Mobile Application, Web and Desktop Development, User Experience (UX), User Interface
+                                        Design, Cloud Computing, Big Data Analytics and Real-Time Data. Peter is also driven to empower children and youths in a holistic manner. 
                                     </p>
                                 </div>
                             </div>
@@ -214,14 +214,14 @@ Design, Cloud Computing, Big Data Analytics and Real-Time Data. Peter is also d
               </p>
               <p>
                   Andrew Kibe
-                  P.S. Please visit our <a href="/#blog">blog</a>
+                  <!-- P.S. Please visit our <a href="/#blog">blog</a> -->
               </p>
                 </div>
             </div>
         </div>
     </div>
 </section>
-
+<br>
 <section class="ftco-gallery">
     <div class="container-wrap">
         <div class="row no-gutters">
