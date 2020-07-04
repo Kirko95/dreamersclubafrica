@@ -26,7 +26,7 @@
         </div>
         <hr><br>
         <div class="row">
-        <div class="col-md-12  heading-section ftco-animate">
+            <div class="col-md-12  heading-section ftco-animate">
                 <h2 class="mb-4"><span>Our</span> Program</h2>
                 <h3 class="mb-4">Financial Fitness for Life</h3>
                 <p>
@@ -58,7 +58,7 @@
                 </p>
             </div>
         </div>
-<br>
+    <br>
         <div class="row">
             <div class="col-md-6 col-lg-3 ftco-animate">
                 <div class="pricing-entry bg-light pb-4 text-left">
@@ -136,6 +136,48 @@
                     </p>
                 </div>
             </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12  heading-section ftco-animate">
+                <h2 class="mt-5 pb-3"><span>Sustainable Development</span> Goals</h2>
+                <p>
+                Dreamers Club at schools will also teach, discuss, debate and engage 
+                its members on the United Nation’s Sustainable Development Goals.
+                </p>
+                <p>
+                Why? Because children are born with an innate sense of 
+                <a href="http://happysciencemom.com/are-children-born-with-compassion/">charity and 
+                compassion</a> At Dreamers Club Africa we refer this as humanitarian 
+                responsibility because we believe we are responsible for taking good 
+                care of our planet and all that is within it. Children naturally look 
+                for ways to make a contribution and help others. But just as we give 
+                our children opportunities to use their legs when they are learning 
+                to walk, we need to give them opportunities to exercise their humanitarian 
+                responsibility muscles so that giving a helping hand becomes a natural 
+                part of their life. It is important to teach young ones that they are 
+                part of a larger community and that we are responsible for everything 
+                around us because we were given dominion over all things.
+                </p>
+
+            </div>
+
+            <div class="col-md-12  heading-section ftco-animate">
+                <h2 class="mt-5 pb-3"><span>Sustainable Development Goals &</span> Entrepreneurship Challenge</h2>
+                <p>
+                Children enrolled in Dreamers Club Africa are taught and guided on 
+                how to generate new business ideas by focusing on day to day 
+                problems, needs, frustrations and looking for ways to solve them. 
+                The goal is to nurture them to be looking for solutions where problems, 
+                needs and frustrations exist. To encourage them to develop this skill, 
+                there will be a yearly competition in idea generation and the crafting 
+                of solutions to address these problems as a business. The members of 
+                Dreamers Club Africa from one school will therefore compete against 
+                members from other schools to come up with workable and sustainable 
+                solutions to address the Sustainable Development Goals.
+                </p>
+                
+            </div>
+      
         </div>
     </div>
 </section>
