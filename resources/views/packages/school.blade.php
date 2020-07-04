@@ -24,29 +24,7 @@
                         If your school would like to enrich its students’ lives by giving them life skills in money management, investments and entrepreneurship, feel free to contact us. For schools that already have an entrepreneurship program and would like to add money management, investments or both, feel free to contact us.
                     </p>
                 </div>
-                <div class="row">
-                    <div class="col-lg-6">
-                        <div class="services-2 d-flex">
-                            <div class="text">
-                                <h3>SUSTAINABLE DEVELOPMENT GOALS</h3>
-                                <p style="text-align:justify;">
-                                    Dreamers Club at schools will also teach, discuss, debate and engage its members on the United Nation’s Sustainable Development Goals.<br>
-                                    Why? Because children are born with an innate sense of charity and compassion. http://happysciencemom.com/are-children-born-with-compassion/. At Dreamers Club Africa we refer this as humanitarian responsibility because we believe we are responsible for taking good care of our planet and all that is within it. Children naturally look for ways to make a contribution and help others. But just as we give our children opportunities to use their legs when they are learning to walk, we need to give them opportunities to exercise their humanitarian responsibility muscles so that giving a helping hand becomes a natural part of their life. It is important to teach young ones that they are part of a larger community and that we are responsible for everything around us because we were given dominion over all things.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="services-2 d-flex">
-                            <div class="text">
-                                <h3>SUSTAINABLE DEVELOPMENT GOALS & ENTREPRENEURSHIP CHALLENGE </h3>
-                                <p style="text-align:justify;">
-                                    Children enrolled in Dreamers Club Africa are taught and guided on how to generate new business ideas by focusing on day to day problems, needs, frustrations and looking for ways to solve them. The goal is to nurture them to be looking for solutions where problems, needs and frustrations exist. To encourage them to develop this skill, there will be a yearly competition in idea generation and the crafting of solutions to address these problems as a business. The members of Dreamers Club Africa from one school will therefore compete against members from other schools to come up with workable and sustainable solutions to address the Sustainable Development Goals.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                
             </div>
         </div>
     </div>
@@ -58,7 +36,7 @@
         <div class="row">
             <div class="col-md-12 order-md-last wrap-about py-5 wrap-about bg-light">
                 <div class="text px-4 ftco-animate">
-                    <h2 class="mb-4">FEW LESSONS OUTCOME FROM THE PROGRAM</h2>
+                    <h3 class="mb-4">Some Lessons & Outcomes from the Program</h3>
                     <ol class="text-justify">
                         <li>
                           Rich vs poor mindset, financial mindset & power of the mind.
@@ -109,7 +87,6 @@
             <div class="col-md-12 order-md-last wrap-about py-5 wrap-about bg-light">
                 <div class="text px-4 ftco-animate">
                     <h2 class="mb-4">Program Cost </h2>
-                    <p>Cost per child: Ksh 15,000</p>
                     <p>As agreed with school. Feel free to send us your questions through our <a href="/contact">contact us</a></p>
                 </div>
             </div>
