@@ -119,9 +119,9 @@
             <div class="col-md-6 col-lg-3 ftco-animate">
                 <div class="pricing-entry bg-light pb-4 text-left">
                     <div>
-                        <h3 class="mb-3 text-center">Holiday Camps</h3>
+                        <h3 class="mb-3 text-center">Online classes</h3>
                     </div>
-                    <div class="img" style="background-image: url({{ asset('assets/images/course/camp.jpg') }});"></div>
+                    <div class="img" style="background-image: url({{ asset('assets/images/course/camp.gif') }});"></div>
                     <div class="package">
                         <ul>
                             <li><b>Teaching Format :</b> Instructor-Led, Classroom Activities, Home Activities,
