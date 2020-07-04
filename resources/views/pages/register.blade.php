@@ -65,9 +65,9 @@
                         <input name="child_phone[]" type="tel" class="form-control" id="" placeholder=" e.g 07xx 342 xxx" >
                     </div>
 
-                    <div class="col-6">
+                    <!-- <div class="col-6">
                     <button type="submit" class="btn btn-primary px-4 py-3 mt-3 size-btn register-button">Add another child</button>
-                </div>
+                    </div> -->
                 </div>
                 <br><hr><br>
 

@@ -197,15 +197,16 @@
         </div>
         <div class="row">
             <div class="course d-lg-flex ftco-animate">
-                <div class="img col-md-6" style="background-image: url({{ asset('assets/images/quadrant.png') }}); height: auto;"></div>
+                <div class="img col-md-6" style="background-image: url({{ asset('assets/images/quadrant.png') }}); background-size: contain;"></div>
                 <div class="text bg-light p-4 col-md-6">
-                    <h3>Financial Fitness for Life</h3>
+                   <a href="/programs"> <h3>Financial Fitness for Life</h3></a>
                     <p class="subheading"><span>Class time:</span> 9:00am - 12pm</p>
                     <p class="subheading"><span>Class time:</span> 1:30pm - 4.30pm</p>
-                    <p>Our programs are designed to shift the kids and teens minds from the left side of the
-                        cash-flow quadrant to
-                        the right side. That is, from aiming and dreaming to work for money to money working for
-                        them. </p>
+                    <p>Our program is designed to shift kids’ and teens’ minds from the left side of the cash-flow quadrant to the right side. 
+                    That is, from aiming and dreaming to work for money to money working for them.
+                    <br><br>
+                        We’re conducting our lessons online via zoom! <a href="/contact">Contact us </a> for more information.
+                    </p>
                     <br>
                     <div class="btn-read row">
                         <div class="col-6">
@@ -285,7 +286,7 @@
 </section>
 
 @include('components.testimony')
-
+<br><br>
 <div class="container justify-content-center">
     <section class="ftco-section ftco-consult ftco-no-pt ftco-no-pb"
     style="background-image: url({{ asset('assets/images/new/quote.jpg') }}); background-size: contain; background-repeat: no-repeat;"
@@ -338,6 +339,7 @@
 </section>
 </div>
 
+<br><br>
 
 
 {{-- <section id="blog" class="ftco-section bg-light">
