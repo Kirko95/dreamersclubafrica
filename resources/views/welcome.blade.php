@@ -205,7 +205,7 @@
                     <p>Our program is designed to shift kids’ and teens’ minds from the left side of the cash-flow quadrant to the right side. 
                     That is, from aiming and dreaming to work for money to money working for them.
                     <br><br>
-                        We’re conducting our lessons online via Google Meet! <a href="/contact">Contact us </a> for more information.
+                        We’re conducting our lessons online via zoom! <a href="/contact">Contact us </a> for more information.
                     </p>
                     <br>
                     <div class="btn-read row">
