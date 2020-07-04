@@ -1,7 +1,7 @@
 @extends('layout.app')
 
 @section('content')
-<section class="hero-wrap hero-wrap-2" style="background-image: url({{asset('assets/images/banner/banner3.jpg')}});">
+<section class="hero-wrap hero-wrap-2" style="background-image: url({{asset('assets/images/new/weekends.jpg')}});">
     <div class="overlay"></div>
     <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center">
@@ -19,7 +19,11 @@
             <div class="col-md-12 wrap-about py-5 pr-md-4 ftco-animate">
                 <div class="text-center heading-section ftco-animate">
 					<h2 class="mb-4"><span>PROGRAM CENTERS</span></h2>
-                    <p style="text-align:justify;">The program is conducted on Saturdays at different centers which have partnered with Dreamers Club Africa. Parents/Caregivers can select where they would like their children to attend the program when registering.</p>
+                    <p style="text-align:justify;">The program is conducted on 
+                    Saturdays at different centers which have partnered with 
+                    Dreamers Club Africa. Parents/Caregivers can select where 
+                    they would like their children to attend the program when 
+                    registering.</p>
                 </div>
             </div>
         </div>
@@ -32,7 +36,7 @@
         <div class="row">
             <div class="col-md-12 order-md-last wrap-about py-5 wrap-about bg-light">
                 <div class="text px-4 ftco-animate">
-                    <h2 class="mb-4">FEW LESSONS OUTCOME FROM THE PROGRAM AFTER GRADUATION </h2>
+                    <h3 class="mb-4">SOME LESSONS OUTCOME FROM THE PROGRAM AFTER GRADUATION </h3>
                     <ol class="text-justify">
                         <li>
                             Rich vs poor mindset, financial mindset & power of the mind.
@@ -84,11 +88,14 @@
         <div class="row">
             <div class="col-md-12 order-md-last wrap-about py-5 wrap-about bg-light">
                 <div class="text px-4 ftco-animate">
-                    <h2 class="mb-4">Program Cost </h2>
+                    <h3 class="mb-4">Program Cost </h3>
                     <p>Cost per child: Ksh 15,000</p>
-                    <p><b>NB</b> Booking and registration fee of Ksh 1,000 is inclusive of the cost and is non-refundable</p>
+                    <p><b>NB</b> Booking and registration fee of Ksh 1,000 is inclusive 
+                    of the cost and is non-refundable</p>
                 </div>
-                <p>To learn more about the program and see if it fits your home schooling check our section of FQA or send us your questions through this form or contact us.</p>
+                <p>To learn more about the program and see if it fits your home schooling 
+                check our section of FAQ or send us your questions through this form or 
+                <a href="/contact">contact us.</a></p>
             </div>
         </div>
     </div>

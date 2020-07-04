@@ -1,7 +1,7 @@
 @extends('layout.app')
 
 @section('content')
-<section class="hero-wrap hero-wrap-2" style="background-image: url({{asset('assets/images/banner/banner3.jpg')}});">
+<section class="hero-wrap hero-wrap-2" style="background-image: url({{asset('assets/images/new/home.jpg')}});">
     <div class="overlay"></div>
     <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center">
@@ -32,7 +32,7 @@
         <div class="row">
             <div class="col-md-12 order-md-last wrap-about py-5 wrap-about bg-light">
                 <div class="text px-4 ftco-animate">
-                    <h2 class="mb-4">SOME LESSONS & OUTCOMES FROM THE PROGRAM </h2>
+                    <h3 class="mb-4">SOME LESSONS & OUTCOMES FROM THE PROGRAM </h3>
                     <ol class="text-justify">
                         <li>
                             Rich vs poor mindset, financial mindset & power of the mind.
@@ -82,7 +82,7 @@
         <div class="row">
             <div class="col-md-12 order-md-last wrap-about py-5 wrap-about bg-light">
                 <div class="text px-4 ftco-animate">
-                    <h2 class="mb-4">Home Schooling Cost </h2>
+                    <h3 class="mb-4">Home Schooling Cost </h3>
                     <p>The cost will depend on the following: </p>
                     <ol class="text-justify">
                         <li>
@@ -96,7 +96,10 @@
                         </li>
                     </ol>
                 </div>
-                <p>To learn more about the program and see if it fits your home schooling needs check our FAQ section or send us your questions through our <a href="/contact">Contact Us</a></p>
+                <p>To learn more about the program and see if it fits 
+                your home schooling needs check our FAQ section or 
+                send us your questions through our <a href="/contact">
+                Contact Us</a></p>
             </div>
         </div>
     </div>
