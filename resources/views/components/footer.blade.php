@@ -1,7 +1,7 @@
 <footer class="ftco-footer ftco-bg-dark ftco-section footer-color">
     <div class="container">
         <div class="row mb-5">
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md-6 col-lg-4">
                 <div class="ftco-footer-widget mb-5">
                     <h2 class="ftco-heading-2">Have Questions?</h2>
                     <div class="block-23 mb-3">
@@ -16,34 +16,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-3">
-                <div class="ftco-footer-widget mb-5">
-                    <h2 class="ftco-heading-2">Blog Posts</h2>
-                    <div class="block-21 mb-4 d-flex">
-                        <a class="blog-img mr-4" style="background-image: url({{asset('assets/images/new/mind.jpg')}});"></a>
-                        <div class="text">
-                            <h3 class="heading"><a href="#">Part 2 - The Subconscious and Conscious Mind</a>
-                            </h3>
-                            <div class="meta">
-                                <div><a href="#"><span class="icon-calendar"></span> Jan 27, 2020</a></div>
-                                <div><a href="#"><span class="icon-person"></span> Admin</a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="block-21 mb-5 d-flex">
-                        <a class="blog-img mr-4" style="background-image: url({{asset('assets/images/new/idea.jpg')}});"></a>
-                        <div class="text">
-                            <h3 class="heading"><a href="#">Part 3 - TheShortfalls of our Education System</a>
-                            </h3>
-                            <div class="meta">
-                                <div><a href="#"><span class="icon-calendar"></span> Feb 3, 2020</a></div>
-                                <div><a href="#"><span class="icon-person"></span> Admin</a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-3">
+           
+            <div class="col-md-6 col-lg-4">
                 <div class="ftco-footer-widget mb-5 ml-md-4">
                     <h2 class="ftco-heading-2">Links</h2>
                     <ul class="list-unstyled">
@@ -52,12 +26,11 @@
                         <li><a href="/programs"><span class="ion-ios-arrow-round-forward mr-2"></span>Our Programs</a></li>
                         <li><a href="/gallery"><span class="ion-ios-arrow-round-forward mr-2"></span>Gallery</a></li>
                         <li><a href="/contact"><span class="ion-ios-arrow-round-forward mr-2"></span>Contact Us</a></li>
-                        <li><a href="/#blog"><span class="ion-ios-arrow-round-forward mr-2"></span>Blog</a></li>
                         <li><a href="/register"><span class="ion-ios-arrow-round-forward mr-2"></span>Register</a></li>
                     </ul>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md-6 col-lg-4">
                 <div class="ftco-footer-widget mb-5">
                     <h2 class="ftco-heading-2">Subscribe To Us!</h2>
                     <form action="#" class="subscribe-form">
