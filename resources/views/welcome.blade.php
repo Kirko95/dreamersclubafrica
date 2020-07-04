@@ -197,7 +197,7 @@
         </div>
         <div class="row">
             <div class="course d-lg-flex ftco-animate">
-                <div class="img col-md-6" style="background-image: url({{ asset('assets/images/quadrant.png') }}); height: auto;"></div>
+                <div class="img col-md-6" style="background-image: url({{ asset('assets/images/quadrant.png') }}); background-size: contain;"></div>
                 <div class="text bg-light p-4 col-md-6">
                     <h3>Financial Fitness for Life</h3>
                     <p class="subheading"><span>Class time:</span> 9:00am - 12pm</p>
