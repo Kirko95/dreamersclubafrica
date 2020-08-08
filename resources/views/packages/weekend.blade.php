@@ -89,13 +89,10 @@
             <div class="col-md-12 order-md-last wrap-about py-5 wrap-about bg-light">
                 <div class="text px-4 ftco-animate">
                     <h3 class="mb-4">Program Cost </h3>
-                    <p>Cost per child: Ksh 15,000</p>
-                    <p><b>NB</b> Booking and registration fee of Ksh 1,000 is inclusive 
-                    of the cost and is non-refundable</p>
+                   
                 </div>
-                <p>To learn more about the program and see if it fits your home schooling 
-                check our section of FAQ or send us your questions through this form or 
-                <a href="/contact">contact us.</a></p>
+                <p>“To learn more about weekend classes, send us your questions through our 
+                <a href="/contact">contact us.</a>page.”</p>
             </div>
         </div>
     </div>

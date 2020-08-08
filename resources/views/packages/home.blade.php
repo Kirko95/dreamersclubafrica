@@ -96,10 +96,10 @@
                         </li>
                     </ol>
                 </div>
-                <p>To learn more about the program and see if it fits 
-                your home schooling needs check our FAQ section or 
-                send us your questions through our <a href="/contact">
-                Contact Us</a></p>
+                <p>“To learn more about the program and see 
+                if it fits your home schooling needs, send 
+                us your questions through our <a href="/contact">
+                Contact Us</a>page.”</p>
             </div>
         </div>
     </div>

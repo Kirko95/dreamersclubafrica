@@ -127,8 +127,8 @@
                             <li><b>Teaching Format :</b> Instructor-Led, Classroom Activities, Home Activities,
                                 Events
                             </li>
-                            <li><b>Program Length :</b>One week.</li>
-                            <li><b>Duration :</b>Two hours per day.</li>
+                            <li><b>Program Length :</b>10 to 15 weeks depending on age.</li>
+                            <li><b>Duration :</b>1 hour, lessons twice a week.</li>
                         </ul>
                     </div>
                     <br> <br> <br>

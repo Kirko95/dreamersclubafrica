@@ -8,8 +8,7 @@
                         <ul>
                             <li><span class="icon icon-map-marker"></span><span class="text">Nairobi, Kenya</span>
                             </li>
-                            <li><a href="#"><span class="icon icon-phone"></span><span class="text">+254 700 323
-                                        810</span></a></li>
+                            <li><a href="#"><span class="icon icon-phone"></span><span class="text">+254 777 323 810</span></a></li>
                             <li><a href="#"><span class="icon icon-envelope"></span><span
                                         class="text">info@dreamersclubafrica.com</span></a></li>
                         </ul>

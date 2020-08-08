@@ -200,8 +200,10 @@
                 <div class="img col-md-6" style="background-image: url({{ asset('assets/images/quadrant.png') }}); background-size: contain;"></div>
                 <div class="text bg-light p-4 col-md-6">
                    <a href="/programs"> <h3>Financial Fitness for Life</h3></a>
-                    <p class="subheading"><span>Class time:</span> 9:00am - 12pm</p>
-                    <p class="subheading"><span>Class time:</span> 1:30pm - 4.30pm</p>
+                    <p class="subheading"><span>CLASS TIME</span></p>
+                    <p class="subheading"><span>Ages 7 – 9 :<br></span> 3:00pm – 4:00pm </p>
+                    <p class="subheading"><span>Ages 10 – 13 :<br></span> 4:15pm – 5:15pm </p>
+                    <p class="subheading"><span>Ages 14 – 17 :<br></span> 5:30pm – 6:30pm </p>
                     <p>Our program is designed to shift kids’ and teens’ minds from the left side of the cash-flow quadrant to the right side. 
                     That is, from aiming and dreaming to work for money to money working for them.
                     <br><br>
