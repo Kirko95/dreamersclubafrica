@@ -87,7 +87,7 @@
             <div class="col-md-12 order-md-last wrap-about py-5 wrap-about bg-light">
                 <div class="text px-4 ftco-animate">
                     <h2 class="mb-4">Program Cost </h2>
-                    <p>As agreed with school. Feel free to send us your questions through our <a href="/contact">contact us</a></p>
+                    <p>"As agreed with school. Feel free to send us your questions through our <a href="/contact">contact us</a>page"</p>
                 </div>
             </div>
         </div>
