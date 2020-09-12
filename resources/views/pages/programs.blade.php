@@ -141,7 +141,7 @@
                         </ul>
                     </div>
                     <br> 
-                    <p class="button text-center"><a href="/packages/holiday" class="btn btn-quarternary px-4 py-3">Learn More</a>
+                    <p class="button text-center"><a href="/packages/online" class="btn btn-quarternary px-4 py-3">Learn More</a>
                     </p>
                 </div>
             </div>
