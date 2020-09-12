@@ -50,6 +50,15 @@
                 </p>
             </div>
             <div class="col-md-12  heading-section ftco-animate">
+                <h3 class="mb-4">Subjects Covered</h3>
+                <ol>
+                    <li> Financial Mindset </li>
+                    <li> Money Management </li>
+                    <li> Entrepreneurship </li>
+                    <li> Investments </li>
+                </ol>
+            </div>
+            <div class="col-md-12  heading-section ftco-animate">
                 <h3 class="mb-4">Methods of Delivery</h3>
                 <p>
                 The FF4L program is delivered through four different channels to 
@@ -131,7 +140,7 @@
                             <li><b>Duration :</b>1 hour, lessons twice a week.</li>
                         </ul>
                     </div>
-                    <br> <br> <br>
+                    <br> 
                     <p class="button text-center"><a href="/packages/holiday" class="btn btn-quarternary px-4 py-3">Learn More</a>
                     </p>
                 </div>
@@ -162,7 +171,6 @@
             </div>
 
             <div class="col-md-12  heading-section ftco-animate">
-                <h2 class="mt-5 pb-3"><span>Sustainable Development Goals &</span> Entrepreneurship Challenge</h2>
                 <p>
                 Children enrolled in Dreamers Club Africa are taught and guided on 
                 how to generate new business ideas by focusing on day to day 
