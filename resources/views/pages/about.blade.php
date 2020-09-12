@@ -190,7 +190,6 @@
                 
               <iframe width="100%" height="500" src="https://www.youtube.com/embed/oFW9ssj0GjY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
               <p class="text-left" style="text-align:justify;">
                 I am Andrew Kibe, a dad, a risk consultant and founder of Dreamers Club Africa. I am passionate about educating the next generation, especially on financial literacy and entrepreneurship. Before creating Dreamers Club Africa I worked in the financial sector specifically on pension actuarial valuations, health insurance, banking, credit reference bureau and the securities exchange.
               </p>

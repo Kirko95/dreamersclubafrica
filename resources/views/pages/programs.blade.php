@@ -43,9 +43,9 @@
             <div class="col-md-12  heading-section ftco-animate">
                 <h3 class="mb-4">Who Is This Program For?</h3>
                 <p>
-                Our Financial Fitness for Life (FF4L) program is aimed at the next 
-                generation of doers and is tailored to suit kids (ages 8 – 13), 
-                teens (14 – 17) and the youth.
+                Our Financial Fitness for Life (FF4L) program is aimed at the next generation 
+                of doers and is tailored to suit kids, teens and the youth.
+
 
                 </p>
             </div>
