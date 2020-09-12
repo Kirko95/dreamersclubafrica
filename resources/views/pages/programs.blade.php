@@ -43,11 +43,20 @@
             <div class="col-md-12  heading-section ftco-animate">
                 <h3 class="mb-4">Who Is This Program For?</h3>
                 <p>
-                Our Financial Fitness for Life (FF4L) program is aimed at the next 
-                generation of doers and is tailored to suit kids (ages 8 – 13), 
-                teens (14 – 17) and the youth.
+                Our Financial Fitness for Life (FF4L) program is aimed at the next generation 
+                of doers and is tailored to suit kids, teens and the youth.
+
 
                 </p>
+            </div>
+            <div class="col-md-12  heading-section ftco-animate">
+                <h3 class="mb-4">Subjects Covered</h3>
+                <ol>
+                    <li> Financial Mindset </li>
+                    <li> Money Management </li>
+                    <li> Entrepreneurship </li>
+                    <li> Investments </li>
+                </ol>
             </div>
             <div class="col-md-12  heading-section ftco-animate">
                 <h3 class="mb-4">Methods of Delivery</h3>
@@ -131,8 +140,8 @@
                             <li><b>Duration :</b>1 hour, lessons twice a week.</li>
                         </ul>
                     </div>
-                    <br> <br> <br>
-                    <p class="button text-center"><a href="/packages/holiday" class="btn btn-quarternary px-4 py-3">Learn More</a>
+                    <br> 
+                    <p class="button text-center"><a href="/packages/online" class="btn btn-quarternary px-4 py-3">Learn More</a>
                     </p>
                 </div>
             </div>
@@ -162,7 +171,6 @@
             </div>
 
             <div class="col-md-12  heading-section ftco-animate">
-                <h2 class="mt-5 pb-3"><span>Sustainable Development Goals &</span> Entrepreneurship Challenge</h2>
                 <p>
                 Children enrolled in Dreamers Club Africa are taught and guided on 
                 how to generate new business ideas by focusing on day to day 

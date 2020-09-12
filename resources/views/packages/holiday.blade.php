@@ -84,12 +84,41 @@
             <div class="col-md-12 order-md-last wrap-about py-5 wrap-about bg-light">
                 <div class="text px-4 ftco-animate">
                     <h3 class="mb-4">Program Cost </h3>
-                    <p>Cost per child: Ksh 15,000</p>
+                    <p><b>Ages 7 – 9 :</b><br>Kshs. 7,000</p>
+                    <p><b>Ages 10 – 13 :</b><br>Kshs. 11,500</p>
+                    <p><b>Ages 14 – 17 :</b><br>Kshs. 16,500</p>
                     <p><b>NB</b> Booking and registration fee of Ksh 1,000 is inclusive of the cost and is non-refundable</p>
                 </div>
-                <p>To learn more about the program and see if it fits your home schooling check our section of 
-                FAQ or send us your questions through this form or  <a href="/contact">contact us.</a></p>
+                <p>To learn more about online classes, send us your questions through our  <a href="/contact">contact us page.</a></p>
+                <br>
+                <div class="text px-4 ftco-animate">
+                    <h3 class="mb-4">How do I sign up? </h3>
+                    <ol>
+                        <li>
+                            Fill out the <a href="/register"> registration form</a>
+                        </li>
+                        <li>
+                            Pay the fee for your child’s age group to:<br><br>
+                            <span>
+                            <b> <u> M-Pesa </u></b><br>
+                            Paybill Number – 4033259<br>
+                            Account – Child’s Name
+                            </span>
+                            <br><br>
+                            <span>
+                            <b> <u> Bank </u></b><br>
+                            Bank :  Standard Chartered<br>
+                            Account Name :  Dromer Ltd<br>
+                            Account Number :  0102486983300<br>
+                            Branch :  Kenyatta Avenue<br>
+                            Account : Child’s Name
+                            </span>
+                        </li>
+                    </ol>
+                    <p><b>NB</b> Booking and registration fee of Ksh 1,000 is inclusive of the cost and is non-refundable</p>
+                </div>
             </div>
+          
         </div>
     </div>
 </section>

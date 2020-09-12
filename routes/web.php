@@ -64,7 +64,7 @@ Route::get('/packages/weekend', function () {
     return view('packages/weekend');
 });
 
-Route::get('/packages/holiday', function () {
+Route::get('/packages/online', function () {
     return view('packages/holiday');
 });
 
