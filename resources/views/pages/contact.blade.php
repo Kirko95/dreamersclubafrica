@@ -26,7 +26,7 @@
         <div class="col-md-4 d-flex">
             <div class="bg-light align-self-stretch box p-4 text-center">
                 <h3 class="mb-4">Contact Number</h3>
-              <p><a href="tel://254700323810">+254 700 323 810</a></p>
+              <p><a href="tel://254700323810">+254 777 323 810</a></p>
             </div>
         </div>
         <div class="col-md-4 d-flex">
