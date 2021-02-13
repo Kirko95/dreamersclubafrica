@@ -11,7 +11,15 @@
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item active"><a href="/" class="nav-link pl-0">Home</a></li>
                 <li class="nav-item"><a href="/about" class="nav-link">About Us</a></li>
-                <li class="nav-item"><a href="/programs" class="nav-link"> Our Program</a></li>
+                <li class="nav-item">
+                    <a href="/programs" class="nav-link" data-toggle="collapse" data-target="#services"> Our Program <span class="oi oi-chevron-bottom"></span></a>
+                    <div id="services" class="collapse">
+                        <ul class="navbar-nav">
+                            <li><a href="#" class="nav-link">&nbsp;&nbsp;&nbsp; > Adults</a></li>
+                            <li><a href="#" class="nav-link">&nbsp;&nbsp;&nbsp; > Youth</a></li>
+                        </ul>
+                    </div>
+                </li>
                 <li class="nav-item"><a href="/gallery" class="nav-link">Gallery</a></li>
                 <li class="nav-item"><a href="/contact" class="nav-link">Contact Us</a></li>
                 {{-- <li class="nav-item"><a href="/#blog" class="nav-link">Blog</a></li> --}}
